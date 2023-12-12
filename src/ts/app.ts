@@ -71,6 +71,8 @@ const apocalypse: Apocalypse = {
   members: ["Magneto", "Storm", "Psylocke", "Angel"]
 }
 
+console.log(apocalypse);
+
 // Mystique should be able to be either of those two mutants (Charles or Apocalypse)
 let mystique: Charles | Apocalypse;
 

@@ -24,5 +24,5 @@
         }
     };
 
-    console.log(superman.getName());
+    // console.log(superman.getName());
 })();
